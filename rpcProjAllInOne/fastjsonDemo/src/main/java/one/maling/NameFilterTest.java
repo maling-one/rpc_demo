@@ -21,7 +21,6 @@ public class NameFilterTest {
         };
 
         SerializeConfig.getGlobalInstance().addFilter(Person.class, formatName);
-
         String jsonOutput =
                 JSON.toJSONString(listOfPersons);
         System.out.println(jsonOutput);
