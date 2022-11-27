@@ -4,6 +4,7 @@
     <excludeFromCompile>
       <directory url="file://$PROJECT_DIR$/XStreamDemo/src/main/resources/archetype-resources" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/fastjsonDemo/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/kryoDemo/src/main/resources/archetype-resources" includeSubdirectories="true" />
     </excludeFromCompile>
     <annotationProcessing>
       <profile name="Maven default annotation processors profile" enabled="true">
@@ -12,6 +13,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="XStreamDemo" />
         <module name="fastjson" />
+        <module name="kryoDemo" />
         <module name="fastjsonDemo" />
       </profile>
     </annotationProcessing>

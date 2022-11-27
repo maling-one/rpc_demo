@@ -7,5 +7,8 @@
     <file url="file://$PROJECT_DIR$/fastjson/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fastjsonDemo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fastjsonDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kryo.result" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kryoDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kryoDemo/src/main/resources" charset="UTF-8" />
   </component>
 </project>
