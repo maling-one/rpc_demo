@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/jdkProxyDemo/jdkProxyDemo.iml" filepath="$PROJECT_DIR$/jdkProxyDemo/jdkProxyDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/rpcProjAllInOne.iml" filepath="$PROJECT_DIR$/rpcProjAllInOne.iml" />
     </modules>
   </component>
