@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/fastjson/pom.xml" />
         <option value="$PROJECT_DIR$/fastjsonDemo/pom.xml" />
         <option value="$PROJECT_DIR$/kryoDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/cglibDemo/pom.xml" />
       </list>
     </option>
   </component>

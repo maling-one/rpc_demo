@@ -15,6 +15,7 @@
         <module name="fastjson" />
         <module name="kryoDemo" />
         <module name="fastjsonDemo" />
+        <module name="cglibDemo" />
       </profile>
     </annotationProcessing>
   </component>
