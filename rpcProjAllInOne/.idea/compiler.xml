@@ -13,10 +13,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="XStreamDemo" />
         <module name="fastjson" />
+        <module name="JavassistDemo" />
         <module name="kryoDemo" />
         <module name="fastjsonDemo" />
         <module name="cglibDemo" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Javassist" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
